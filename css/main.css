@@ -1,0 +1,16 @@
+#mission {
+  background: rgba(32, 35, 41, 0.9);
+  color: #ddd;
+}
+
+body {
+  padding-top: 70px;
+}
+
+div img {
+  height: 300px;
+  width: 350px;
+}
+div#content{
+	color:white;
+}
